@@ -1,0 +1,29 @@
+<!--
+     Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_name">World Houses</string>
+    <string name="action_reset">Reset</string>
+    <string name="search_hint">Enter search text</string>
+    <string name="search_title">Search</string>
+    <string name="name">Enter name</string>
+    <string name="description">Enter description</string>
+    <string name="latid">Enter Latid</string>
+    <string name="longid">Enter longid</string>
+    <string name="city">Enter city</string>
+    <string name="option1">Add to MyHouses</string>
+    <string name="option2">Add to Duplicates</string>
+    <string name="option3">Add to Favorites</string>
+</resources>
