@@ -118,6 +118,7 @@ public class CompleteCollectionFragment extends Fragment implements SearchView.O
     @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
         inflater.inflate(R.menu.main, menu);
+        //Search menu
         searchMenuItem = menu.findItem(R.id.search);
 
     }
